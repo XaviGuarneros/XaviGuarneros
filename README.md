@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @XaviGuarneros
+- 👀 I’m interested in coding and making programs!!!
+- 🌱 I’m currently learning how to code
+- 💞️ I’m looking to collaborate on a game
